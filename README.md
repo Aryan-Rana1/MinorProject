@@ -240,3 +240,17 @@ Focused on building impactful real-world systems 🚀
 **Made with ❤️ to save lives**
 
 </div>
+
+
+## Credits
+
+This project was developed as a group minor project.
+
+My contributions:
+- System blueprint
+- Feature planning
+- Workflow design
+- Testing
+- Documentation
+
+Original implementation was completed collaboratively with my teammates.
